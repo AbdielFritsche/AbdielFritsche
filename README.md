@@ -29,6 +29,20 @@ I'm Abdiel Fritsche, a passionate developer currently studying **Computer Scienc
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+## 🌟 Featured Projects
+
+Here are some of my highlighted projects:
+
+- [Project 1: Penal Consulting Mobile App](https://github.com/santiagosauma/SoftBlitz-ClinicaPenal_Project)  
+  A mobile application designed for a legal consulting firm specialized in penal law. The app allows clients to schedule appointments, access legal case information, fill out eligibility forms, and interact with a chatbot for quick responses. Developed using Kotlin and Android Studio.
+
+- [Project 2: Ranger Training Game](https://github.com/santiagosauma/Proyecto-AWAQ---MIDAS)  
+  An educational game built with Unity for training forest rangers. The game immerses players in scenarios where they need to put in practices methods to identify animals and handle forest management tasks, enhancing their practical skills in a fun, interactive way.
+
+- [Project 3: Online Store Web Scraper](https://github.com/AbdielFritsche/WebCrawlerCompras)  
+  A Python-based web scraper designed to gather and compare product links from multiple online stores. This tool filters the results based on price, availability, and other customizable criteria, helping users make informed purchasing decisions efficiently.
+
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdielFritsche&show_icons=true&theme=radical)
@@ -43,6 +57,6 @@ I'm currently diving deep into Mobile development with Kotlin, while honing my s
 
 
 - Email: [Gmail.com](mailto:abdielfrba003@gmail.com)
--[LinkedIn](https://www.linkedin.com/in/abdiel-fritsche-barajas-7b0504309)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdiel-fritsche-barajas-7b0504309)
 
 
