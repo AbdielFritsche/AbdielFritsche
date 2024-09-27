@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Abdiel Fritsche], a passionate developer currently studying **Computer Science**. I'm always eager to learn and explore new technologies, with a strong focus on:
+I'm Abdiel Fritsche, a passionate developer currently studying **Computer Science**. I'm always eager to learn and explore new technologies, with a strong focus on:
 
 - 🤖 **Artificial Intelligence**
 - 🧠 **Machine Learning**
