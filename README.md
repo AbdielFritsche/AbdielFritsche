@@ -32,6 +32,5 @@ I'm currently diving deep into Mobile development with Kotlin, while honing my s
 
 ### 📫 How to reach me:
 
-- Email: [Gmail](abdielfrba003@gmail.com)
 - [LinkedIn]([https://www.linkedin.com/in/abdiel-fritsche-barajas-7b0504309])
 
