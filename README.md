@@ -36,7 +36,7 @@ Here are some of my highlighted projects:
 - [Project 1: Penal Consulting Mobile App](https://github.com/santiagosauma/SoftBlitz-ClinicaPenal_Project)  
   A mobile application designed for a legal consulting firm specialized in penal law. The app allows clients to schedule appointments, access legal case information, fill out eligibility forms, and interact with a chatbot for quick responses. Developed using Kotlin and Android Studio.
 
-- [Project 2: Ranger Training Game](https://github.com/santiagosauma/Proyecto-AWAQ---MIDAS)  
+- [Project 2: Ranger Training Game]([https://github.com/santiagosauma/Proyecto-AWAQ---MIDAS](https://github.com/santiagosauma/Proyecto-AWAQ---MIDAS/tree/VIdeojuego))  
   An educational game built with Unity for training forest rangers. The game immerses players in scenarios where they need to put in practices methods to identify animals and handle forest management tasks, enhancing their practical skills in a fun, interactive way.
 
 - [Project 3: Online Store Web Scraper](https://github.com/AbdielFritsche/WebCrawlerCompras)  
