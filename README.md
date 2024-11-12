@@ -60,7 +60,7 @@ Here are some of my highlighted projects:
 - [Project 3: Online Store Web Scraper](https://github.com/AbdielFritsche/WebCrawlerCompras)  
   A Python-based web scraper designed to gather and compare product links from multiple online stores. This tool filters the results based on price, availability, and other customizable criteria, helping users make informed purchasing decisions efficiently. (IN PROGRESS)
 
--[Project 4: Optifood Web App](https://github.com/IsaacRoSosa/Optifoo)
+- [Project 4: Optifood Web App](https://github.com/IsaacRoSosa/Optifoo)
   A Web App based for the reduction of food waste and recipy generation with Gemini AI based on the users preferences, this project is buildt with the Flask Python Framework for the back-end and with the use of Next.js for the front-end (LOCAL VERSION FINISHED, IN PROGRESS DEPLOY AND OTHER FEATURES) 
 
 ## 📈 GitHub Stats
