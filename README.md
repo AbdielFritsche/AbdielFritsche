@@ -3,7 +3,6 @@
 I'm Abdiel Fritsche, a passionate developer currently studying **Computer Science**. I'm always eager to learn and explore new technologies, with a strong focus on:
 
 - 🤖 **Artificial Intelligence**
-- 🧠 **Machine Learning**
 - 🛠️ **Backend Development**
 - 🎮 **Game Development with Unity**
 - 🔐 **CiberSecurity**
@@ -11,7 +10,7 @@ I'm Abdiel Fritsche, a passionate developer currently studying **Computer Scienc
 ## 🛠️ Technologies & Tools
 
 ### 🚀 Preferred Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) — My go-to language for ML and backend development.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) — My go-to language for backend development.
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) — For backend and game developement
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) — Frequently used for high-performance applications and algorithms.
 
