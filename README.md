@@ -76,11 +76,6 @@ Here are some of my highlighted projects:
 - [Project 4: Optifood Web App](https://github.com/IsaacRoSosa/Optifoo)
   A Web App based for the reduction of food waste and recipy generation with Gemini AI based on the users preferences, this project is buildt with the Flask Python Framework for the back-end and with the use of Next.js for the front-end (LOCAL VERSION FINISHED, IN PROGRESS DEPLOY AND OTHER FEATURES) 
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdielFritsche&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdielFritsche&theme=radical)
-
 
 ## 🌱 Currently Learning
 
